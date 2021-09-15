@@ -1,0 +1,9 @@
+main:
+  - title: "Software libraries"
+    url: /libraries/
+  - title: "Publications"
+    url: /publications/
+  - title: "Documents"
+    url: /docs/
+  - title: "Archive"
+    url: /year-archive/
